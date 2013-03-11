@@ -1,0 +1,4 @@
+SmartGWT
+========
+
+GWT project
